@@ -2,7 +2,7 @@
 
 A Basic WeatherApp to fetch weather information from a backend API.
 
-## Jetpack Libraries used
+## Libraries used
 * androidx.room:room-compiler
 * com.google.dagger:hilt-android-compiler
 * androidx.room:room-runtime
@@ -31,5 +31,5 @@ A Basic WeatherApp to fetch weather information from a backend API.
 * io.ktor:ktor-serialization-gson
 * com.google.code.gson
 
-## A note on testing.
+## A note on testing
 Due to un-forseen time restraints the project is lacking testing. However, There are some tests to demonstrate how testing would be done.
