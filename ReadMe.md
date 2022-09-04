@@ -1,6 +1,6 @@
 # WeatherApp
 
-A Basic WeatherApp to fetch weather information from a backend API.
+A Basic WeatherApp to fetch weather information from a backend API. Refreshing the list can be done via swipe down to refresh or the refresh button if no data is present.
 
 ## Libraries used
 * androidx.room:room-compiler
